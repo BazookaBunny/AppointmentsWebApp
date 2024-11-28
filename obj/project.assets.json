@@ -8467,11 +8467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/doina/Desktop/FullStack-Project/Backend/Backend.csproj",
+      "projectUniqueName": "/Users/doina/Desktop/AppointMentsWebApp/Backend/Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "/Users/doina/Desktop/FullStack-Project/Backend/Backend.csproj",
+      "projectPath": "/Users/doina/Desktop/AppointMentsWebApp/Backend/Backend.csproj",
       "packagesPath": "/Users/doina/.nuget/packages/",
-      "outputPath": "/Users/doina/Desktop/FullStack-Project/Backend/obj/",
+      "outputPath": "/Users/doina/Desktop/AppointMentsWebApp/Backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/doina/.nuget/NuGet/NuGet.Config"
